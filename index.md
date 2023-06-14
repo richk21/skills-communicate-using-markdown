@@ -5,3 +5,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Task List
+- [x] Wake up.
+- [ ] take bath.
+- [ ] go for work.
